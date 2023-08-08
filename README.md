@@ -2,7 +2,6 @@
 
 ##  Software Engineer | IoT  | Tech Enthusiast
 
-![Profile Picture](profile_picture_link)
 
 📍 Based in Tunis, Tunisia 🇹🇳  
 📧 Contact: selaymeny@gmail.com  

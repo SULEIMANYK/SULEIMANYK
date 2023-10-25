@@ -16,9 +16,9 @@ Greetings! I'm Suleiman Yaakoubi, a dedicated and enthusiastic Software Engineer
 
 I thrive on turning complex challenges into elegant solutions through the power of code. With years of hands-on experience, I have honed my skills in software development, system architecture, and IoT. My technical toolkit includes:
 
-- **Programming Languages**: Typescript , Java, ,Javascript ,Python
-- **Web Technologies**: HTML, CSS, JavaScript, GraphQL, REST, MQTT, TCP/IP, UDP, LORAWAN, WebSocket ,GRPC ,RPC 
-- **Frameworks**: Spring Boot, Angular  Flask, Django, Express , 
+- **Programming Languages**: Typescript, Java, Kotlin ,Javascript,Python
+- **Web Technologies**: HTML, CSS, JavaScript, GraphQL, REST, MQTT, TCP/IP, UDP 
+- **Frameworks**: Spring Boot, Angular  Flask, Django, Express, 
 - **Version Control**: Git
 - **Database**: SQL, MongoDB, Postgres
 

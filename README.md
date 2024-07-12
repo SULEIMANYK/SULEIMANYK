@@ -3,7 +3,6 @@
 ##  Software Engineer | Tech Enthusiast
 
 
-📍 Based in Tunis, Tunisia 🇹🇳  
 📧 Contact: selaymeny@gmail.com  
 📱 LinkedIn: [linkedin.com/in/suleiman-yaakoubi](https://www.linkedin.com/in/suleiman-yaakoubi)  
 
